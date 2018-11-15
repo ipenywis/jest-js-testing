@@ -1,0 +1,22 @@
+{
+  "name": "app-testing",
+  "version": "1.0.0",
+  "description": "Simple App Testing For Ipenywis Tutorials",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [
+    "Jest",
+    "javascript",
+    "Testing"
+  ],
+  "author": "Islem Penywis",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
